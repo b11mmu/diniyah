@@ -1,0 +1,2 @@
+# diniyah
+Data madrasah diniyah
