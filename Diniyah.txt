@@ -1,0 +1,33 @@
+* Dashboard
+1. Kurikulum
+- Identitas
+- Data
+    Guru
+    Murid angkatan
+- Program kerja
+    Yaumiyah,Usbuiyah,Syahriyah,Dauriyah,Saniyah
+- Akademika
+    Sahabat
+      ^ pimpinan,wali kelas,guru fan
+    Kemuridan
+      ^ murid kelas,murid rombel,murid keluar,murid lulus
+    KBM
+      ^ jam KBM
+      ^ pekan efektif
+      ^ jadwal
+         jadwal kbm,jadwal piket
+      ^ absensi
+         absensi pimpinan,guru,murid
+    Penilaian
+      ^ harian,imda,praktek,perilaku,raport,cek nilai ganda
+- Keuangan
+    Rapbm,Kas,Set biaya,Bayar biaya
+
+2. Laporan
+- Laporan diniyah
+    guru,murid,administrasi,keuangan,program
+- Rekapitulasi
+3. Lain-lain
+4. Grafik
+5. Akun
+
